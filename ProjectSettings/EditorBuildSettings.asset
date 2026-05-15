@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8d064092a01dfa5489c5fecc2cadd8a4
+  - enabled: 1
+    path: Assets/Scenes/SelectDifficulty.unity
+    guid: 0aee450f35ee4d341b1392ba106fd7c6
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: e919f7699b12e454ab8499abb0cdee81
+  - enabled: 1
+    path: Assets/Scenes/Defeat.unity
+    guid: 9ba5f9a4028eac3449e0030389ddfd0a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
